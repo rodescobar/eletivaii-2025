@@ -65,3 +65,10 @@ A nota final será de no máximo 10 pontos. Estes pontos serão divididos em:
 
 ## Outros materiais e Calendário
 [Drive](https://drive.google.com/drive/folders/1GF7-rca0M64-F5mPqS43SbnsmxWBqGva?usp=sharing)
+
+## Aula02 20/02/2025
+- Avaliação EAD
+
+## Aula 03 26/02/2025
+- Resumo: Introdução ao JavaScript, como criar blocos JavaScript dentro do HTML e como criar fora do arquivo, como buscar dados de um input (value, id, name), e exemplo de aplicar estilo CSS em uma div.
+- [Link para a pasta da Aula 03](./aula03)
