@@ -72,3 +72,7 @@ A nota final será de no máximo 10 pontos. Estes pontos serão divididos em:
 ## Aula 03 26/02/2025
 - Resumo: Introdução ao JavaScript, como criar blocos JavaScript dentro do HTML e como criar fora do arquivo, como buscar dados de um input (value, id, name), e exemplo de aplicar estilo CSS em uma div.
 - [Link para a pasta da Aula 03](./aula03)
+
+## Aula 04 06/03/2025
+- Resumo: Manipulação de Tabelas com JavaScript, estrutura HTML com duas tabelas, adição de setas para mover linhas entre tabelas, e JavaScript para mover linhas entre tabelas.
+- [Link para a pasta da Aula 04](./aula04)
