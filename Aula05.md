@@ -6,14 +6,14 @@
 
 - Utilizando HTML e JavaScript (puro), construa uma calculadora
 - Sua calculadora deverá possuir:
- - Números de 0 à 9
- - Operadores - * / +
- - Totalizador ( = )
- - Área de fórmula
- - Área de resultado
- - Utilize como base a calculadora do Windows
+   - Números de 0 à 9
+   - Operadores - * / +
+   - Totalizador ( = )
+   - Área de fórmula
+   - Área de resultado
+   - Utilize como base a calculadora do Windows
 
-- IMPORTANTE: cada botão deve chamar a mesma função JavaScript (exemplo Aula04)
+- **IMPORTANTE**: cada botão deve chamar a mesma função JavaScript (exemplo Aula04)
  
 ```js
  //Comando eval é utilizado para calcular o valor de uma string
