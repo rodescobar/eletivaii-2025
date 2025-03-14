@@ -76,3 +76,8 @@ A nota final será de no máximo 10 pontos. Estes pontos serão divididos em:
 ## Aula 04 06/03/2025
 - Resumo: Manipulação de Tabelas com JavaScript, estrutura HTML com duas tabelas, adição de setas para mover linhas entre tabelas, e JavaScript para mover linhas entre tabelas.
 - [Link para a pasta da Aula 04](./aula04)
+
+## Aula 05 13/03/2025
+- Exercício para entrega em sala
+- Faltou perdeu
+- [Link para a pasta da Aula 04](./aula05.md)
