@@ -80,4 +80,4 @@ A nota final será de no máximo 10 pontos. Estes pontos serão divididos em:
 ## Aula 05 13/03/2025
 - Exercício para entrega em sala
 - Faltou perdeu
-- [Link para a pasta da Aula 04](./aula05.md)
+- [Link para a pasta da Aula 05](./Aula05.md)
