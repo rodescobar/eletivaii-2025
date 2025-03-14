@@ -26,3 +26,22 @@
 ```
 
 ![Calculadora](./calc.png)
+
+```
+Leonardo
+Pedro
+Caio
+Gabriel
+José Miguel
+Maria Eduarda
+Wesley
+Rafael
+Giovana Patrocinio
+João Gabriel
+Guilherme Ferreira
+Zezinho
+Juan
+Carlos Eduardo
+Ian
+João T.
+```
