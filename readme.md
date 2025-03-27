@@ -81,3 +81,12 @@ A nota final será de no máximo 10 pontos. Estes pontos serão divididos em:
 - Exercício para entrega em sala
 - Faltou perdeu
 - [Link para a pasta da Aula 05](./Aula05.md)
+
+## Aula 06 20/03/2025
+- Conversa sobre jQuery
+
+## Aula 07 27/03/2025
+- Inicio da construção do Jogo
+  - Arquivo com o jogo pronto
+
+## Aula 08 28/03/2025
