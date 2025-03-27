@@ -88,5 +88,8 @@ A nota final será de no máximo 10 pontos. Estes pontos serão divididos em:
 ## Aula 07 27/03/2025
 - Inicio da construção do Jogo
   - Arquivo com o jogo pronto
+- [Link para a pasta da Aula 07](./aula07)
 
 ## Aula 08 28/03/2025
+- Exercício
+- [Link para a pasta da Aula 08](./aula08)
