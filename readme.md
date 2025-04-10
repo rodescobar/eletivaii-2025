@@ -93,3 +93,7 @@ A nota final será de no máximo 10 pontos. Estes pontos serão divididos em:
 ## Aula 08 28/03/2025
 - Exercício
 - [Link para a pasta da Aula 08](./aula08)
+
+## Aula 09 10/04/2025
+- Exercício
+- [Link para a pasta da Aula 09](./aula09)
